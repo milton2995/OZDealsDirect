@@ -987,6 +987,7 @@ input.check-content-img[value=""] + .content-img {
 .wrappage .footer-bottom {
     background: #2b3991;
     border-top: 3px solid #e7941e;
+	margin: 0 0 5000px;
 }
 
 .wrappage .footer-bottom-content {
@@ -1001,7 +1002,6 @@ input.check-content-img[value=""] + .content-img {
 .wrappage .footer-copy {
     padding-left: 0;
     padding-right: 0;
-	margin: 0 0 500px;
 }
 
 /* End footer */
